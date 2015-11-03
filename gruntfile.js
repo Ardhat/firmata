@@ -25,7 +25,7 @@ module.exports = function (grunt) {
         eqnull: true,
         node: true,
         strict: false,
-        es5: true
+        esnext: true,
       }
     },
     jscs: {
